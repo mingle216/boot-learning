@@ -1,15 +1,16 @@
-package com.mingle.boot;
+package com.mingle.boot.restful;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author lenovo
+ * @author mingle
+ * @date 2022/3/10 16:25
+ * @description
  */
 @SpringBootApplication
-public class QuickstartApplication {
+public class RestfulApplication {
     public static void main(String[] args) {
-        SpringApplication.run(QuickstartApplication.class,args);
+        SpringApplication.run(RestfulApplication.class,args);
     }
-
 }

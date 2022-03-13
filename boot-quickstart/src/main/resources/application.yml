@@ -1,2 +1,5 @@
 server:
   port: 8080
+
+simplebean:
+  name: 自制starter,hmm
